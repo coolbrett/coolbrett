@@ -12,7 +12,7 @@
 [![Brett's github stats](https://github-readme-stats.vercel.app/api?username=coolbrett&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
-<sub><sup>Doesn't represent strength in each language and only counts public repo's\n</sup></sub>
+<sub><sup>Doesn't represent strength in each language and only counts public repo's</sup></sub>
 
 <sub><sup>*does not include JavaScript*</sup></sub>
 <br>
