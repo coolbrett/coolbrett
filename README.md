@@ -2,6 +2,10 @@
 
 ## I'm a Computer Science Senior at Western Carolina University!
 
+- Graduating December 2021
+- I'm really interested in Data Visualization and Automation
+- I love to play competitive games like Rocket League ⚡
+
 ### Connect with me:
 
 [<img align="left" alt="Brett | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
