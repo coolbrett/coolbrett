@@ -3,8 +3,6 @@
 ## I'm a Computer Science Senior at Western Carolina University!
 
 - Graduating December 2021
-- I'm really interested in Data Visualization and Automation
-- I love to play competitive games like Rocket League ⚡
 
 ### Connect with me:
 
