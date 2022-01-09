@@ -1,8 +1,6 @@
 ### Hi there, I'm Brett 👋
 
-## I'm a Computer Science Senior at Western Carolina University!
-
-- Graduating December 2021
+## I'm a Site Reliability Engineer for Dick's Sporting Goods!
 
 ### Connect with me:
 
